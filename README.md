@@ -7,5 +7,6 @@ This a part of my MTech Thesis on the topic of Earth System emulation using Mach
 
 This repository is heavily influnced by :
 
-a href="https://github.com/duncanwp/ClimateBench.git">ClimateBench </a>
-a href="https://github.com/leap-stc/EAEE4000_ML_for_Env_Eng_Sci.git">ClimateBench Tutorials by Pierre Gentine </a>
+[ClimateBench] ("https://github.com/duncanwp/ClimateBench.git")
+
+[ClimateBench Tutorials by Pierre Gentine ] (https://github.com/leap-stc/EAEE4000_ML_for_Env_Eng_Sci.git)
